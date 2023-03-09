@@ -1,3 +1,4 @@
+
 import java.util.Scanner;  
 import java.lang.Math;  
 import java.io.printer; 
@@ -38,3 +39,7 @@ printPattern(n);
 
 
 adfjlaksdfjasdfakdfl;asjdahdf
+dfjaldfjadjf
+adjfkasdjfjasdfjsf
+dfjlakdjflsjdflsjdf
+
